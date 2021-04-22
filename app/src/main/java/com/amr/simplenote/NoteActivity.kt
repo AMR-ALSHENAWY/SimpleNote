@@ -1,9 +1,8 @@
-package com.amr.simpleNote
+package com.amr.simplenote
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.amr.firebasecreation.R
 import kotlinx.android.synthetic.main.note_activity.*
 import java.text.SimpleDateFormat
 import java.util.*

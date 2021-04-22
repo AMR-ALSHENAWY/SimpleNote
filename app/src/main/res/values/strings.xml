@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Firebase Creation</string>
+    <string name="app_name">Simple Note</string>
     <string name="logout">log out</string>
     <string name="userInfo">user info</string>
 

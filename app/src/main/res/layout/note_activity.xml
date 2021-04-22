@@ -9,7 +9,7 @@
     android:orientation="vertical"
     android:weightSum="3"
     android:background="@drawable/bg_dialog"
-    tools:context="com.amr.simpleNote.NoteActivity"
+    tools:context="com.amr.simplenote.NoteActivity"
     >
 
 

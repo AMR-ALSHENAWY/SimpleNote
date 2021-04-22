@@ -1,11 +1,10 @@
-package com.amr.simpleNote
+package com.amr.simplenote
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ArrayAdapter
-import com.amr.firebasecreation.R
 import kotlinx.android.synthetic.main.listrow.view.*
 
 //********************************************************************************************************************************************************************************************************************

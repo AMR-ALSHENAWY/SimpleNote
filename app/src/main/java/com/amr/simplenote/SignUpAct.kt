@@ -1,4 +1,4 @@
-package com.amr.simpleNote
+package com.amr.simplenote
 
 import android.content.Intent
 import android.os.Bundle
@@ -12,7 +12,6 @@ import android.widget.Toast
 import android.widget.Toast.LENGTH_LONG
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import com.amr.firebasecreation.R
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.DocumentReference
 import com.google.firebase.firestore.FirebaseFirestore

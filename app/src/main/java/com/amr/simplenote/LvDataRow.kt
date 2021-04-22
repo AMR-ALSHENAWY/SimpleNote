@@ -1,4 +1,4 @@
-package com.amr.simpleNote
+package com.amr.simplenote
 
 class LvDataRow {
     var id:String?=null

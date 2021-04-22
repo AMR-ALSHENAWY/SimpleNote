@@ -1,4 +1,4 @@
-package com.amr.firebasecreation
+package com.amr.simplenote
 
 import org.junit.Test
 

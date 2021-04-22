@@ -1,6 +1,5 @@
-package com.amr.simpleNote
+package com.amr.simplenote
 
-import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
 import android.text.Editable
@@ -13,13 +12,11 @@ import android.widget.Toast
 import android.widget.Toast.LENGTH_LONG
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import com.amr.firebasecreation.R
 import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.log_in.*
 import kotlinx.android.synthetic.main.log_in.progressBar
 import kotlinx.android.synthetic.main.log_in.txtEmail
 import kotlinx.android.synthetic.main.log_in.txtPassword
-import kotlinx.android.synthetic.main.sign_up.*
 import kotlinx.android.synthetic.main.signup_dialog.view.*
 
 lateinit var mAuth: FirebaseAuth
