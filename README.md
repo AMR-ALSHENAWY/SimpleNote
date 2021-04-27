@@ -1,6 +1,6 @@
 # Simple Note
 
-## Simple  is a native android application for storing simple notes using firebase
+## Simple Note  is a native android application for storing simple notes using firebase
 
 
 <table style="width:100%" >
